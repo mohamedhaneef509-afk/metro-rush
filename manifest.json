@@ -9,14 +9,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "https://mohamedhaneef509-afk.github.io/metro-rush/icon.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
-      "src": "icon.png",
+      "src": "https://mohamedhaneef509-afk.github.io/metro-rush/icon.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
